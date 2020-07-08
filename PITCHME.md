@@ -1,5 +1,6 @@
 # Teaching Programming in the Modern Classroom
 - by Rizal Mohd Nor (PHD CS, MBA, SCJP, LPIC, CBBF, CBSA)
+---
 
 ### Introduction
 - What is Git

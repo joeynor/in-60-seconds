@@ -22,7 +22,7 @@ by Rizal Mohd Norr (PHD CS, MBA, SCJP, LPIC, CBBF, CBSA)
     - Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 @ulend
 
-@snap[south span-100 text-07]
+@snap[south span-100 text-01]
 Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development.[12] Its current maintainer since 2005 is Junio Hamano. As with most other distributed version-control systems, and unlike most client–server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking abilities, independent of network access or a central server.[13] Git is free and open-source software distributed under the terms of the GNU General Public License version 2
 @snapend
 

@@ -1,4 +1,4 @@
-?color=linear-gradient(180deg, white 75%, black 25%)
+---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
 
 @snap[west span-55]
@@ -12,7 +12,7 @@
 @snap[south span-100]
 by Rizal Mohd Nor
 @snapend
----
+---?color=linear-gradient(180deg, white 75%, black 25%)
 
 ### Teaching Programming in the Modern Classroom
 - by Rizal Mohd Nor (PHD CS, MBA, SCJP, LPIC, CBBF, CBSA)
@@ -54,8 +54,7 @@ Git was created by Linus Torvalds in 2005 for development of the Linux kernel, w
 
 ![IMAGE](assets/img/presentation.png)
 
----
-?color=linear-gradient(180deg, white 75%, black 25%)
+---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
 
 @snap[west span-55]

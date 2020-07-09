@@ -31,7 +31,14 @@ Git was created by Linus Torvalds in 2005 for development of the Linux kernel, w
 ### Github
 
 - Why use github
+    - Industry standard
+    - students get exposure
+    - code are managed 
 - Why is it an industry standard
+    - Over three million users. 
+    - Used by Airbnb, netflix etc
+    - CI integration
+
 ---
 ### Code Management
 

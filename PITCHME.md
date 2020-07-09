@@ -42,13 +42,17 @@ Git was created by Linus Torvalds in 2005 for development of the Linux kernel, w
 ---
 ### Code Management
 
+- Please create a github account. Go to [github](https://github.com).
 - Managing code for instructors and students [Demo]
+- Let's see current student usage. Join my class. Link will be given. 
 ---
 #### Classes
  
 - Creating an assignment [Demo]
+- Click on [Github Classroom](https://classroom.github.com).
 ---
 ### automation 
 
 - features for auto-grading [Demo]
+- Things to start coding. 
 

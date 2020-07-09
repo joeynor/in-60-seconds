@@ -10,13 +10,9 @@
 @snapend
 
 @snap[south span-100]
-by Rizal Mohd Nor
+by Rizal Mohd Norr (PHD CS, MBA, SCJP, LPIC, CBBF, CBSA)
 @snapend
 ---?color=linear-gradient(180deg, white 75%, black 25%)
-
-### Teaching Programming in the Modern Classroom
-- by Rizal Mohd Nor (PHD CS, MBA, SCJP, LPIC, CBBF, CBSA)
----
 
 ### Introduction
 - What is Git

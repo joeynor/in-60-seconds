@@ -17,8 +17,7 @@ by Rizal Mohd Norr (PHD CS, MBA, SCJP, LPIC, CBBF, CBSA)
 ## Introduction
 - What is Git
 
-    - Git (/ɡɪt/) is a distributed version-control system for tracking 
-    changes in source code during software development.
+    - Git (/ɡɪt/) is a distributed version-control system for tracking changes in source code during software development.
     - It is designed for coordinating work among programmers, 
     but it can be used to track changes in any set of files.  
     - Its goals include speed, data integrity, 

@@ -13,14 +13,12 @@
 by Rizal Mohd Norr (PHD CS, MBA, SCJP, LPIC, CBBF, CBSA)
 @snapend
 ---?color=linear-gradient(180deg, white 75%, black 25%)
-@snap[midpoint span-100 text-black]
+@snap[midpoint span-100 text-05 text-black]
 ## Introduction
 - What is Git
     - Git (/ɡɪt/) is a distributed version-control system for tracking changes in source code during software development.
-    - It is designed for coordinating work among programmers, 
-    but it can be used to track changes in any set of files.  
-    - Its goals include speed, data integrity, 
-    and support for distributed, non-linear workflows.
+    - It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.  
+    - Its goals include speed, data integrity, and support for distributed, non-linear workflows.
     
 @snapend
 

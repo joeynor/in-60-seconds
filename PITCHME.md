@@ -1,11 +1,11 @@
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
 
-@snap[west span-55]
+@snap[west span-75]
 ## Teaching Programmming in the Modern Classroom
 @snapend
 
-@snap[north-east span-45]
+@snap[east span-45]
 ![IMAGE](assets/img/icon-classroom.png)
 @snapend
 

@@ -12,7 +12,7 @@
 @snap[south span-100]
 by Rizal Mohd Norr (PHD CS, MBA, SCJP, LPIC, CBBF, CBSA)
 @snapend
----?color=linear-gradient(180deg, blue 75%, black 25%)
+---?color=linear-gradient(180deg, lightblue 75%, black 25%)
 @snap[midpoint span-100 text-black]
 ### Introduction
 - What is Git
